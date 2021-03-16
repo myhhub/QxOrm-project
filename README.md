@@ -2,7 +2,7 @@ QxOrm使用教程(ORM for C++ 对象关系映射)
 
 QxOrm 几乎支持所有的主流数据库，比如 SQLite、MySQL、PostgreSQL、Oracle、MS SQL Server、MongoDB 等。为了快速了解它的用法，我们以 SQLite 为例，来介绍一些常见的数据库操作（例如：增删改查）
 
-[QxOrm使用教程(ORM for C++ 对象关系映射)](https://www.ljjyy.com/archives/2021/03/100646.html)
+[QxOrm使用教程(ORM for C++ 对象关系映射)](https://www.ljjyy.com/archives/2021/03/100647.html)
 
 QxOrm 是一个 C++ 库，旨在为 C++/Qt 开发人员提供对象关系映射（ORM）功能（类似于 Java 中的 Hibernate，.Net 中的 NHibernate）。
 
