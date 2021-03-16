@@ -31,7 +31,7 @@ int main(int argc, char *argv[])
 
     UserPtr u3;
     u3.reset(new User());
-    u3->name = "Waleon";
+    u3->name = "Rose";
     u3->age = 18;
 
     // 将所有用户插入容器中
